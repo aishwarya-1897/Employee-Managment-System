@@ -8,5 +8,10 @@
 </head>
 <body>
      <a href="saveEmployee">Add Employee</a>
+     <br><br>
+     <a href="viewEmployees">View Employees</a>
 </body>
 </html>
+
+
+
